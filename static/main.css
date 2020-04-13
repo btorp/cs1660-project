@@ -1,0 +1,41 @@
+.header, .file-button, .indices-button, 
+.search-button, .top-n-button,
+.search-bar {
+    text-align: center;
+}
+
+h2 {
+    margin: 50px;
+    margin-top: 10%;
+    display: inline-block;
+}
+
+button {
+    margin: 50px;
+    margin-bottom: 0px;
+    display: inline-block;
+    height: 60px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.indices-button {
+    margin-top: 60px;
+}
+
+ul {
+    padding: 0px;
+    margin-top: 1px;
+}
+
+.select-action {
+    margin: 30px;
+}
+
+.search-bar {
+    margin: 30px;
+}
+
+.search-bar input {
+    padding-right: 100px;
+}

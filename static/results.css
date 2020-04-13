@@ -1,0 +1,40 @@
+.header {
+    text-align: right;
+    margin: 40px;
+    margin-right: 20px;
+}
+
+.header p {
+    margin-top: auto;
+    text-align: left;
+    font-size: large;
+}
+
+.search-results {
+    margin-top: 60px;
+    text-align: center;
+}
+
+.top-n-results {
+    text-align: center;
+}
+
+table {
+    display: inline-block;
+}
+
+th {
+    background-color: lightgray;
+}
+
+th, td {
+    padding: 20px;
+    text-align: center;
+}
+
+ table, th, td {
+    border: 1px black solid;
+    border-collapse: collapse;
+}
+
+
